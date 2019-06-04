@@ -1,0 +1,20 @@
+{
+    "name": "sandy/contact",
+    "description": "This will send email",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+	    {
+	      "name": "Sandeep Kumar Shaw",
+	      "email": "sandeep@capitalnumbers.com",
+	      "role": "Developer"
+	    }
+	],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+	    "psr-4": {
+	      "Sandy\\Contact\\": "src"
+	    }
+	}
+}
